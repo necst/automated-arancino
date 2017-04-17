@@ -15,7 +15,7 @@ Edit `config/general.py` and run `agent/mbare.py` inside the VMs.
 
 ## Run
 
-automated-arancino is componed by four components:
+automated-arancino is components by four components:
 
 * mbare is the agent that has to be executed inside the VMs.
 ```
